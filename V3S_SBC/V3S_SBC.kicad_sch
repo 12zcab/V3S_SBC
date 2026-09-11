@@ -3190,6 +3190,52 @@
 		)
 	)
 	(sheet
+		(at 226.06 150.495)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "103e7fc2-0133-4581-8824-4e25dbf2aced")
+		(property "Sheetname" "Clock"
+			(at 226.06 149.7834 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Clock.kicad_sch"
+			(at 226.06 163.7796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V3S_SBC"
+				(path "/d510d0d2-5c6c-421d-aef5-78001d333beb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 109.22 172.72)
 		(size 36.195 19.05)
 		(exclude_from_sim no)
@@ -3231,6 +3277,52 @@
 			(project "V3S_SBC"
 				(path "/d510d0d2-5c6c-421d-aef5-78001d333beb"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 229.235 105.41)
+		(size 38.735 19.685)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f5dc1a3d-d3ca-43a7-9896-1d9481fd90ba")
+		(property "Sheetname" "MicroSD"
+			(at 229.235 104.6984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MicroSD.kicad_sch"
+			(at 229.235 125.6796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V3S_SBC"
+				(path "/d510d0d2-5c6c-421d-aef5-78001d333beb"
+					(page "4")
 				)
 			)
 		)

@@ -632,13 +632,25 @@
         "uuid": "d510d0d2-5c6c-421d-aef5-78001d333beb"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R4-19,J1-2,L1-3,C11-19,Y1,U3",
     "variants": []
   },
   "sheets": [
     [
       "d510d0d2-5c6c-421d-aef5-78001d333beb",
       "V3S_SBC"
+    ],
+    [
+      "a5b0c425-5aaa-4147-8d44-4c1ce065cc81",
+      "Power Module"
+    ],
+    [
+      "103e7fc2-0133-4581-8824-4e25dbf2aced",
+      "Clock"
+    ],
+    [
+      "f5dc1a3d-d3ca-43a7-9896-1d9481fd90ba",
+      "MicroSD"
     ]
   ],
   "text_variables": {},
