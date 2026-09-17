@@ -632,7 +632,7 @@
         "uuid": "d510d0d2-5c6c-421d-aef5-78001d333beb"
       }
     ],
-    "used_designators": "C19-25,C32-51,R12-22,J2,J4-5,Y2-5",
+    "used_designators": "C1-25,C32-51,R1-25,J1-12,Y2-5,U1-4,L1-4",
     "variants": []
   },
   "sheets": [
@@ -641,24 +641,28 @@
       "V3S_SBC"
     ],
     [
-      "a5b0c425-5aaa-4147-8d44-4c1ce065cc81",
-      "Power Module"
-    ],
-    [
-      "103e7fc2-0133-4581-8824-4e25dbf2aced",
+      "25da2af1-048a-4bba-8352-31d9c3a8b074",
       "Clock"
     ],
     [
-      "752bb6c1-a34c-41f3-9a33-185e78878f4a",
-      "MicroSD"
-    ],
-    [
-      "b04784f5-0042-4369-a4ff-bec9707918b0",
+      "69ddde5a-2995-4d66-aee5-bd18c9086002",
       "Clock32k"
     ],
     [
-      "58453aab-12f2-4820-ba46-2c7b83544c7f",
+      "7be67f3c-35ef-4fdb-80f3-1b11bd08dc56",
       "LCD"
+    ],
+    [
+      "e06c6562-aac3-42f5-92b1-7b7358439705",
+      "MicroSD"
+    ],
+    [
+      "efd6a5e8-aa84-4414-b1ee-e4328addf513",
+      "Power Module"
+    ],
+    [
+      "b06dc605-e345-4d50-8f21-1f010f67f05f",
+      "USB"
     ]
   ],
   "text_variables": {},
